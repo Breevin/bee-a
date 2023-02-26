@@ -1,7 +1,8 @@
 {
     "restaurants":[
+        
     {
-    "restaurant_id": "bjxabjx1",
+    "restaurant_id": 0,
     "name": "Domino's",
     "city": "Delhi",
     "location_id": 1,
@@ -31,7 +32,7 @@
     "mealtype_id": 1
 },
 {
-    "restaurant_id": "bjxabjx2",
+    "restaurant_id": 1,
     "name": "KFC",
     "city": "Delhi",
     "location_id": 1,
@@ -61,7 +62,7 @@
     "mealtype_id": 1
 },
 {
-    "restaurant_id": "bjxabjx3",
+    "restaurant_id": 2,
     "name": "Burger King",
     "city": "Delhi",
     "location_id": 1,
@@ -91,7 +92,7 @@
     "mealtype_id": 1
 },
 {
-    "restaurant_id": "bjxabjx4",
+    "restaurant_id": 3,
     "name": "Baba Ka Dhaba",
     "city": "Delhi",
     "location_id": 5,
